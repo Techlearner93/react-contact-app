@@ -4,4 +4,4 @@
 
 ## Project status: on-going
 
-## Link
+## Link to view app on browser: https://Techlearner93.github.io/react-contact-app
