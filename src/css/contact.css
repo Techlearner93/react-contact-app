@@ -1,0 +1,13 @@
+.contact-header {
+    border-bottom: 1px solid black;
+}
+
+.contact {
+    font-size: 20px;
+    font-family: inherit;
+    cursor: pointer;
+}
+
+.contact-more {
+    
+}

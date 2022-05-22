@@ -1,0 +1,23 @@
+@import 'contact.css';
+@import 'button.css';
+@import 'contact-header.css';
+@import 'addcontact.css';
+
+*, *::before, *::after {
+    box-sizing: border-box;
+}
+
+body {
+    padding:0;
+    margin: 0;
+}
+
+.container {
+    max-width: 500px;
+    margin: 30px auto;
+    overflow: auto;
+    min-height: 300px;
+    border: 1px solid black;
+    padding: 30px;
+    border-radius: 5px;
+}
