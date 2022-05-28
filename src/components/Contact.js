@@ -18,7 +18,6 @@ export default function Contact(props) {
                 <div className='contact-more'>
                     <p>{contact.phoneNumber}</p>
                     <p>{contact.email}</p>
-                    <button>Edit</button>
                     <button onClick={ ()=> onDeleteContact(contact.id)}>Delete</button>
                 </div> 
             : ''}
